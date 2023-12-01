@@ -8,4 +8,4 @@ Shela and her sister’s childhood experiences are similar to most children of f
 
 This is the story of Shela's family and many other first generation immigrants who face difficulties accessing accurate translation services from New York City's administration. 
 
-Read the full story here: [file:///Users/mrinalininayak/dataProjects/Lost-in-translation/index.html]
+Read the full story [here.](file:///Users/mrinalininayak/dataProjects/Lost-in-translation/index.html)
